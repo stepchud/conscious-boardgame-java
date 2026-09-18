@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<jnlp codebase="http://www.stephenchudleigh.com/game/"
+    href="jnlp/cvgame.jnlp">
+  <information>
+    <title>The Consciouse Videogame</title>
+    <vendor>The Dog</vendor>
+    <homepage href="."/>
+    <description>See the overview.html page for details</description>
+    <icon href="jnlp/cardback.gif"/>
+  </information>
+  <resources>
+    <j2se version="1.4+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CBGame.jar"/>
+  </resources>
+  <application-desc/>
+</jnlp>
